@@ -1,13 +1,7 @@
 # PS5-Repository-List
 List of PS5 repository
 
-C'est entendu, je garde l'ordre exact de votre liste originale en appliquant simplement un formatage Markdown propre (Titres en gras, liens cliquables et espacements réguliers) pour que le rendu soit lisible sur n'importe quelle plateforme.
-
-Voici le contenu prêt à être copié :
-
 ---
-
-# PS5 Repository List
 
 ### Y2JB
 
