@@ -197,7 +197,7 @@ List of PS5 repository
 
 ### Nazky Auto-Backpork
 
-[https://github.com/Nazky/Auto-Backpork](https://github.com/Nazky/Auto-Backpork]
+[https://github.com/Nazky/Auto-Backpork](https://github.com/Nazky/Auto-Backpork)
 
 ---
 
