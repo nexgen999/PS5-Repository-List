@@ -1,6 +1,8 @@
 # PS5-Repository-List
 List of PS5 repository
 
+---
+
 ## warning : Secure Your DNS and block Update
 
 ### Nomadic-dns
@@ -8,6 +10,14 @@ List of PS5 repository
 ### localhost
 127.0.0.1 / 127.0.0.2
 ### or NanoDNS
+
+---
+
+## PS5 Firmware
+
+[https://darthsternie.net/ps5-firmwares/](https://darthsternie.net/ps5-firmwares/)
+
+[https://darksoftware.xyz/PS5/FWlist](https://darksoftware.xyz/PS5/FWlist)
 
 ---
 
