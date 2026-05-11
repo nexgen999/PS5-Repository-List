@@ -11,7 +11,7 @@ List of PS5 repository
 
 ### StoneModder y2jb theme cyberpunk
 
-https://github.com/StonedModder/Y2JB-Cyberpunk
+[https://github.com/StonedModder/Y2JB-Cyberpunk](https://github.com/StonedModder/Y2JB-Cyberpunk)
 
 ### Elf Loader
 
@@ -253,8 +253,28 @@ https://mega.nz/folder/095FAKgI#65aXhbTQzp-A-exxWyxR_A
 
 ### Porkfolio 1.0.6
 
-https://drive.proton.me/urls/BB6EF3RG80#r8WdCqrhfTjz
+[https://drive.proton.me/urls/BB6EF3RG80#r8WdCqrhfTjz](https://drive.proton.me/urls/BB6EF3RG80#r8WdCqrhfTjz)
 
 ### kura
 
-https://github.com/NookieAI/kura
+[https://github.com/NookieAI/kura](https://github.com/NookieAI/kura)
+
+---
+
+### Lapy - PS-Xplorer
+
+[https://pkg-zone.com/details/LAPY20016](https://pkg-zone.com/details/LAPY20011)
+
+### Lapy - Avatar Changer
+
+[https://pkg-zone.com/details/LAPY20016](https://pkg-zone.com/details/LAPY20016)
+
+### Lapy - Avatar Maker 2.0
+
+[https://mega.nz/file/TZ0i0QwD#bR9tEaS4qd-ylsSyzQD3c2sciJTqtDJbKa9j2TyYPp4](https://mega.nz/file/TZ0i0QwD#bR9tEaS4qd-ylsSyzQD3c2sciJTqtDJbKa9j2TyYPp4)
+
+---
+
+### Itemzflow Game Manager
+
+[https://pkg-zone.com/details/ITEM00001](https://pkg-zone.com/details/ITEM00001)
