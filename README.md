@@ -9,6 +9,9 @@ List of PS5 repository
 
 [https://github.com/itsPLK/ps5-y2jb-autoloader](https://github.com/itsPLK/ps5-y2jb-autoloader)
 
+### PS5 Payload Manager
+[https://github.com/itsPLK/ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager)
+
 ### StoneModder y2jb theme cyberpunk
 
 [https://github.com/StonedModder/Y2JB-Cyberpunk](https://github.com/StonedModder/Y2JB-Cyberpunk)
@@ -112,6 +115,9 @@ List of PS5 repository
 [https://github.com/EchoStretch/dump_runner](https://github.com/EchoStretch/dump_runner)
 
 ---
+### ChronicLoader-PS5
+
+[https://github.com/StonedModder/ChronicLoader-PS5-Payload](https://github.com/StonedModder/ChronicLoader-PS5-Payload)
 
 ### NanosDNS
 
