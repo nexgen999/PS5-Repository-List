@@ -1,8 +1,6 @@
 # PS5-Repository-List
 List of PS5 repository
 
----
-
 ### Y2JB
 
 [https://github.com/Gezine/Y2JB](https://github.com/Gezine/Y2JB)
@@ -10,6 +8,10 @@ List of PS5 repository
 ### Y2JB Auto Loader
 
 [https://github.com/itsPLK/ps5-y2jb-autoloader](https://github.com/itsPLK/ps5-y2jb-autoloader)
+
+### StoneModder y2jb theme cyberpunk
+
+https://github.com/StonedModder/Y2JB-Cyberpunk
 
 ### Elf Loader
 
@@ -183,6 +185,10 @@ List of PS5 repository
 
 [https://github.com/ps5xploit/ps5shopappkg](https://github.com/ps5xploit/ps5shopappkg)
 
+### PS5 Shortcuts pkg
+
+https://mega.nz/folder/095FAKgI#65aXhbTQzp-A-exxWyxR_A
+
 ---
 
 ### PS5 Aldos Tools
@@ -242,3 +248,13 @@ List of PS5 repository
 ### PS5 Linux Tools
 
 [https://github.com/ps5-linux/ps5-linux-tools](https://github.com/ps5-linux/ps5-linux-tools)
+
+---
+
+### Porkfolio 1.0.6
+
+https://drive.proton.me/urls/BB6EF3RG80#r8WdCqrhfTjz
+
+### kura
+
+https://github.com/NookieAI/kura
