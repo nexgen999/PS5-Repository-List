@@ -269,6 +269,16 @@ https://mega.nz/folder/095FAKgI#65aXhbTQzp-A-exxWyxR_A
 
 [https://pkg-zone.com/details/LAPY20016](https://pkg-zone.com/details/LAPY20016)
 
+### GTA6 AVATARS
+
+extract this zip on /data/AVATARS/
+
+[https://mega.nz/file/uFVETSoA#vUuaBMctCzYiLNvUvm27P0xzw8MU4uVK7f6NkEwFA1E](https://mega.nz/file/uFVETSoA#vUuaBMctCzYiLNvUvm27P0xzw8MU4uVK7f6NkEwFA1E)
+
+### 300 Extra Avatars - Anime pkg
+
+[https://mega.nz/file/aNMXTDCR#stHRRP4FAqOfgTzqkOChkLp4QmUfA7035JVz4SmKoSE](https://mega.nz/file/aNMXTDCR#stHRRP4FAqOfgTzqkOChkLp4QmUfA7035JVz4SmKoSE)
+
 ### Lapy - Avatar Maker 2.0
 
 [https://mega.nz/file/TZ0i0QwD#bR9tEaS4qd-ylsSyzQD3c2sciJTqtDJbKa9j2TyYPp4](https://mega.nz/file/TZ0i0QwD#bR9tEaS4qd-ylsSyzQD3c2sciJTqtDJbKa9j2TyYPp4)
