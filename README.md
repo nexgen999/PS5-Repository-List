@@ -294,3 +294,9 @@ extract this zip on /data/AVATARS/
 ### Itemzflow Game Manager
 
 [https://pkg-zone.com/details/ITEM00001](https://pkg-zone.com/details/ITEM00001)
+
+---
+
+### Netcat GUI 1.2
+
+[https://gbatemp.net/download/netcat-gui-1-2.37153/](https://gbatemp.net/download/netcat-gui-1-2.37153/)
