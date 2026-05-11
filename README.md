@@ -9,6 +9,8 @@ List of PS5 repository
 127.0.0.1 / 127.0.0.2
 ### or NanoDNS
 
+---
+
 ### Y2JB
 
 [https://github.com/Gezine/Y2JB](https://github.com/Gezine/Y2JB)
