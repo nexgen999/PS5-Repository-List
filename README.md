@@ -5,6 +5,8 @@ List of PS5 repository
 
 [https://github.com/Gezine/Y2JB](https://github.com/Gezine/Y2JB)
 
+---
+
 ### Y2JB Auto Loader
 
 [https://github.com/itsPLK/ps5-y2jb-autoloader](https://github.com/itsPLK/ps5-y2jb-autoloader)
@@ -15,6 +17,14 @@ List of PS5 repository
 ### StoneModder y2jb theme cyberpunk
 
 [https://github.com/StonedModder/Y2JB-Cyberpunk](https://github.com/StonedModder/Y2JB-Cyberpunk)
+
+---
+
+### Nazky Y2JB-WebUI
+
+[https://github.com/Nazky/Y2JB-WebUI](https://github.com/Nazky/Y2JB-WebUI)
+
+---
 
 ### Elf Loader
 
@@ -165,6 +175,10 @@ List of PS5 repository
 
 [https://github.com/SvenGDK/UFS2Tool](https://github.com/SvenGDK/UFS2Tool)
 
+### Nazky Auto-Backpork
+
+[https://github.com/Nazky/Auto-Backpork](https://github.com/Nazky/Auto-Backpork]
+
 ---
 
 ### BackPork
@@ -300,3 +314,7 @@ extract this zip on /data/AVATARS/
 ### Netcat GUI 1.2
 
 [https://gbatemp.net/download/netcat-gui-1-2.37153/](https://gbatemp.net/download/netcat-gui-1-2.37153/)
+
+### Al-Azif : Hermes Link payload sender
+
+[https://github.com/Al-Azif/hermes-link](https://github.com/Al-Azif/hermes-link)
