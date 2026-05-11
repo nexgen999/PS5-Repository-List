@@ -1,6 +1,14 @@
 # PS5-Repository-List
 List of PS5 repository
 
+## warning : Secure Your DNS and block Update
+
+### Nomadic-dns
+62.210.38.117
+### localhost
+127.0.0.1 / 127.0.0.2
+### or NanoDNS
+
 ### Y2JB
 
 [https://github.com/Gezine/Y2JB](https://github.com/Gezine/Y2JB)
