@@ -338,3 +338,45 @@ extract this zip on /data/AVATARS/
 ### Al-Azif : Hermes Link payload sender
 
 [https://github.com/Al-Azif/hermes-link](https://github.com/Al-Azif/hermes-link)
+
+---
+
+### PS5_DEV_HOMEBREW
+
+[https://github.com/Rufidj/PS5_DEV_HOMEBREW](https://github.com/Rufidj/PS5_DEV_HOMEBREW)
+
+### ps5debug-NG
+
+[https://github.com/OpenSourcereR-dev/ps5debug-NG](https://github.com/OpenSourcereR-dev/ps5debug-NG)
+
+---
+
+### remote_lua_loader
+
+- shahrilnet
+
+[https://github.com/shahrilnet/remote_lua_loader](https://github.com/shahrilnet/remote_lua_loader)
+
+- notmaj0r
+
+[https://github.com/notmaj0r/remote_lua_loader](https://github.com/notmaj0r/remote_lua_loader)
+
+### Gezine - BD-UN-JB
+
+[https://github.com/Gezine/BD-UN-JB](https://github.com/Gezine/BD-UN-JB)
+
+### Gezine - Luac0re
+
+[https://github.com/Gezine/Luac0re](https://github.com/Gezine/Luac0re)
+
+### BD-JB-Poops-Autoloader.iso
+
+[https://github.com/ps3120/BD-UN-JB](https://github.com/ps3120/BD-UN-JB)
+
+### itsPLK - ps5-bdjb-autoloader
+
+[https://github.com/itsPLK/ps5-bdjb-autoloader](https://github.com/itsPLK/ps5-bdjb-autoloader)
+
+### itsPLK - ps5-lua-autoloader
+
+[https://github.com/itsPLK/ps5-lua-autoloader](https://github.com/itsPLK/ps5-lua-autoloader)
