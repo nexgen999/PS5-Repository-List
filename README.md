@@ -267,6 +267,10 @@ https://mega.nz/folder/095FAKgI#65aXhbTQzp-A-exxWyxR_A
 
 [https://github.com/MasterPS0/Luac0re](https://github.com/MasterPS0/Luac0re)
 
+### P2JB Y2JB
+
+[https://github.com/MasterPS0/Y2JB](https://github.com/MasterPS0/Y2JB)
+
 ### PDB Reader GUI
 
 [https://github.com/MasterPS0/PdbReaderGUI](https://github.com/MasterPS0/PdbReaderGUI)
