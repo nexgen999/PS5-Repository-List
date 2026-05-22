@@ -116,7 +116,15 @@ List of PS5 repository
 
 ### Sonic Loader
 
-[https://git.earthonion.com/soniciso/sonicloader](https://git.earthonion.com/soniciso/sonicloader)
+[https://git.etawen.dev/soniciso/sonicloader](https://git.etawen.dev/soniciso/sonicloader)
+
+### Elf Arsenal ( new sonic loader name
+
+[https://git.etawen.dev/soniciso/elf-arsenal](https://git.etawen.dev/soniciso/elf-arsenal)
+
+### PS5 UDS-based trophy unlocker
+
+[https://git.etawen.dev/soniciso/uds-trophy-unlocker](https://git.etawen.dev/soniciso/uds-trophy-unlocker)
 
 ---
 
@@ -153,6 +161,10 @@ List of PS5 repository
 
 [https://github.com/drakmor/nanoDNS](https://github.com/drakmor/nanoDNS)
 
+### Al-Azif - chukei-dns
+
+[https://github.com/Al-Azif/chukei-dns](https://github.com/Al-Azif/chukei-dns)
+
 ### ShadowMount
 
 [https://github.com/drakmor/ShadowMountPlus](https://github.com/drakmor/ShadowMountPlus)
@@ -180,6 +192,10 @@ List of PS5 repository
 ### PS5 Air PSX
 
 [https://github.com/barisyild/airpsx/](https://github.com/barisyild/airpsx/)
+
+### PS5 ZFTP
+
+[https://github.com/seregonwar/zftpd](https://github.com/seregonwar/zftpd)
 
 ---
 
@@ -209,11 +225,11 @@ List of PS5 repository
 
 ### Np Fake Signin
 
-[https://git.earthonion.com/earthonion/np-fake-signin](https://git.earthonion.com/earthonion/np-fake-signin)
+[https://git.etawen.dev/earthonion/np-fake-signin](https://git.etawen.dev/earthonion/np-fake-signin)
 
 ### Garlic SaveMgr
 
-[https://git.earthonion.com/earthonion/garlic-savemgr](https://git.earthonion.com/earthonion/garlic-savemgr)
+[https://git.etawen.dev/earthonion/garlic-savemgr](https://git.etawen.dev/earthonion/garlic-savemgr)
 
 ---
 
@@ -380,3 +396,10 @@ extract this zip on /data/AVATARS/
 ### itsPLK - ps5-lua-autoloader
 
 [https://github.com/itsPLK/ps5-lua-autoloader](https://github.com/itsPLK/ps5-lua-autoloader)
+
+
+---
+
+### PS4macedo
+
+[https://github.com/ps4macedo?tab=repositories](https://github.com/ps4macedo?tab=repositories)
