@@ -405,7 +405,7 @@ extract this zip on /data/AVATARS/
 
 [https://github.com/itsPLK/ps5-lua-autoloader](https://github.com/itsPLK/ps5-lua-autoloader)
 
-### P2JB-Y2JB-Porting
+### matem6 - P2JB-Y2JB-Porting
 
 [https://github.com/matem6/P2JB-Y2JB-Porting](https://github.com/matem6/P2JB-Y2JB-Porting)
 
