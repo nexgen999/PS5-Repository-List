@@ -231,6 +231,10 @@ List of PS5 repository
 
 [https://git.etawen.dev/earthonion/garlic-savemgr](https://git.etawen.dev/earthonion/garlic-savemgr)
 
+### garlic-worker
+
+[https://git.etawen.dev/earthonion/garlic-worker](https://git.etawen.dev/earthonion/garlic-worker)
+
 ---
 
 ### PS5 Web Browser
@@ -401,8 +405,21 @@ extract this zip on /data/AVATARS/
 
 [https://github.com/itsPLK/ps5-lua-autoloader](https://github.com/itsPLK/ps5-lua-autoloader)
 
+---
+
+### StonedModder - Ghostpad
+
+[https://github.com/StonedModder/Ghostpad](https://github.com/StonedModder/Ghostpad)
+
+### StonedModder - HID-Dumper
+
+[https://github.com/StonedModder/HID-Dumper](https://github.com/StonedModder/HID-Dumper)
 
 ---
+
+### illusionyy - ps5-y2jb-appdb-fixup
+
+[https://github.com/illusionyy/ps5-y2jb-appdb-fixup](https://github.com/illusionyy/ps5-y2jb-appdb-fixup)
 
 ### PS4macedo
 
