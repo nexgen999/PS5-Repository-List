@@ -118,7 +118,7 @@ List of PS5 repository
 
 [https://git.etawen.dev/soniciso/sonicloader](https://git.etawen.dev/soniciso/sonicloader)
 
-### Elf Arsenal ( new sonic loader name
+### Elf Arsenal ( new sonic loader name )
 
 [https://git.etawen.dev/soniciso/elf-arsenal](https://git.etawen.dev/soniciso/elf-arsenal)
 
@@ -428,3 +428,38 @@ extract this zip on /data/AVATARS/
 ### PS4macedo
 
 [https://github.com/ps4macedo?tab=repositories](https://github.com/ps4macedo?tab=repositories)
+
+---
+
+### ArkSama - PS5-Lapy-JB-Daemon
+
+[https://github.com/ArkSama/PS5-Lapy-JB-Daemon](https://github.com/ArkSama/PS5-Lapy-JB-Daemon)
+
+### ArkSama - PS5-PHU-Trophy-System
+
+[https://github.com/ArkSama/PS5-PHU-Trophy-System](https://github.com/ArkSama/PS5-PHU-Trophy-System)
+
+---
+
+### notmaj0r - CheatRunner
+
+[https://github.com/notmaj0r/CheatRunner](https://github.com/notmaj0r/CheatRunner)
+
+---
+
+### TeeKay87 - HEN-Cheats-Collection
+
+[https://github.com/TeeKay87/HEN-Cheats-Collection](https://github.com/TeeKay87/HEN-Cheats-Collection)
+
+[https://hencheats.vercel.app](https://hencheats.vercel.app)
+
+
+### GoldHEN_Cheat_Repository
+
+[https://github.com/GoldHEN/GoldHEN_Cheat_Repository](https://github.com/GoldHEN/GoldHEN_Cheat_Repository)
+
+---
+
+### KsAmJ - PS-Looner
+
+[https://github.com/KsAmJ/PS-Looner](https://github.com/KsAmJ/PS-Looner)
