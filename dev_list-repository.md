@@ -77,9 +77,3 @@ Une liste centralisée des développeurs, organisations et dépôts alternatifs.
 | **mia** | [git.etawen.dev/mia](https://git.etawen.dev/mia) |
 | **Sinajet** | [git.etawen.dev/Sinajet](https://git.etawen.dev/Sinajet) |
 | **soniciso** | [git.etawen.dev/soniciso](https://git.etawen.dev/soniciso) |
-https://github.com/ps5-payload-dev - https://git.etawen.dev/ps5-payload-dev
-https://github.com/StonedModder - https://git.etawen.dev/StonedModder
-https://github.com/Gezine - https://git.etawen.dev/Gezine
-
-https://github.com/SiSTR0
-https://github.com/kmeps4
