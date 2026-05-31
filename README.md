@@ -463,3 +463,51 @@ extract this zip on /data/AVATARS/
 ### KsAmJ - PS-Looner
 
 [https://github.com/KsAmJ/PS-Looner](https://github.com/KsAmJ/PS-Looner)
+
+### Drakmor - dlc_emu
+
+[https://github.com/drakmor/dlc_emu](https://github.com/drakmor/dlc_emu)
+
+
+### Drakmor - pgo_stub
+
+[https://github.com/drakmor/pgo_stub](https://github.com/drakmor/pgo_stub)
+
+
+### Dragancla - Netflix-N-Hack
+
+[https://github.com/dragancla/Netflix-N-Hack](https://github.com/dragancla/Netflix-N-Hack)
+
+
+### Matem6 - YarP2JB
+
+[https://github.com/matem6/YarP2JB](https://github.com/matem6/YarP2JB)
+
+
+### Matem6 - P2JB-Y2JB-Porting
+
+[https://github.com/matem6/P2JB-Y2JB-Porting](https://github.com/matem6/P2JB-Y2JB-Porting)
+
+
+### Deejay87 - PS4-PS5-Payloads-Sender
+
+[https://github.com/deejay87/PS4-PS5-Payloads-Sender](https://github.com/deejay87/PS4-PS5-Payloads-Sender)
+
+
+### lz-anonz - Y2X
+[https://github.com/lz-anonz/Y2X](https://github.com/lz-anonz/Y2X)
+
+
+### Ps4macedo - send_pkg-payload
+
+[https://github.com/ps4macedo/send_pkg-payload](https://github.com/ps4macedo/send_pkg-payload)
+
+
+### Kerrdec97 - exFAT-Ripper
+
+[https://github.com/kerrdec97/exFAT-Ripper](https://github.com/kerrdec97/exFAT-Ripper)
+
+
+### illusionyy - ps5-fw-spoof
+
+[https://github.com/illusionyy/ps5-fw-spoof](https://github.com/illusionyy/ps5-fw-spoof)

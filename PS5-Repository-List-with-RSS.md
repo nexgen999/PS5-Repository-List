@@ -450,3 +450,43 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 ### KsAmJ - PS-Looner
 * [Repository](https://github.com/KsAmJ/PS-Looner)
 * [RSS Feed](https://github.com/KsAmJ/PS-Looner/releases.atom)
+
+### Drakmor - dlc_emu
+* [Repository](https://github.com/drakmor/dlc_emu)
+* [RSS Feed](https://github.com/drakmor/dlc_emu/releases.atom)
+
+### Drakmor - pgo_stub
+* [Repository](https://github.com/drakmor/pgo_stub)
+* [RSS Feed](https://github.com/drakmor/pgo_stub/releases.atom)
+
+### Dragancla - Netflix-N-Hack
+* [Repository](https://github.com/dragancla/Netflix-N-Hack)
+* [RSS Feed](https://github.com/dragancla/Netflix-N-Hack/releases.atom)
+
+### Matem6 - YarP2JB
+* [Repository](https://github.com/matem6/YarP2JB)
+* [RSS Feed](https://github.com/matem6/YarP2JB/releases.atom)
+
+### Matem6 - P2JB-Y2JB-Porting
+* [Repository](https://github.com/matem6/P2JB-Y2JB-Porting)
+* [RSS Feed](https://github.com/matem6/P2JB-Y2JB-Porting/releases.atom)
+
+### Deejay87 - PS4-PS5-Payloads-Sender
+* [Repository](https://github.com/deejay87/PS4-PS5-Payloads-Sender)
+* [RSS Feed](https://github.com/deejay87/PS4-PS5-Payloads-Sender/releases.atom)
+
+### lz-anonz - Y2X
+* [Repository](https://github.com/lz-anonz/Y2X)
+* [RSS Feed](https://github.com/lz-anonz/Y2X/releases.atom)
+
+### Ps4macedo - send_pkg-payload
+* [Repository](https://github.com/ps4macedo/send_pkg-payload)
+* [RSS Feed](https://github.com/ps4macedo/send_pkg-payload/releases.atom)
+
+### Kerrdec97 - exFAT-Ripper
+* [Repository](https://github.com/kerrdec97/exFAT-Ripper)
+* [RSS Feed](https://github.com/kerrdec97/exFAT-Ripper/releases.atom)
+
+### illusionyy - ps5-fw-spoof
+* [Repository](https://github.com/illusionyy/ps5-fw-spoof)
+* [RSS Feed](https://github.com/illusionyy/ps5-fw-spoof/releases.atom)
