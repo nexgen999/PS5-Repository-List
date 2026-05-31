@@ -1,5 +1,7 @@
 # 🎮 PS5 Community Tutorials
 
+A selection of key content creators and developers from the PS5 scene to follow guides, tutorials and news.
+
 Une sélection de créateurs de contenu et de développeurs incontournables de la scène PS5 pour suivre les guides, tutoriels et actualités.
 
 ---
