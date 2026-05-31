@@ -1,49 +1,16 @@
-# PS5 Community Tutorial
+# 🎮 PS5 Community Tutorials
 
-### MODDED_WARFARE
+Une sélection de créateurs de contenu et de développeurs incontournables de la scène PS5 pour suivre les guides, tutoriels et actualités.
 
-[https://www.youtube.com/@MODDEDWARFARE](https://www.youtube.com/@MODDEDWARFARE)
+---
 
-[https://x.com/MODDED_WARFARE](https://x.com/MODDED_WARFARE)
-
-### mbcrump
-
-[https://www.youtube.com/mbcrump](https://www.youtube.com/mbcrump)
-
-[https://x.com/crump_youtube](https://x.com/crump_youtube)
-
-### TheWizWiki
-
-[https://www.youtube.com/@TheWizWiki](https://www.youtube.com/@TheWizWiki)
-
-[https://x.com/TheWizWiki](https://x.com/TheWizWiki)
-
-### NanospeedGamer
-
-[https://www.youtube.com/user/nanospeedyamaha](https://www.youtube.com/user/nanospeedyamaha)
-
-[https://x.com/NanospeedGamer](https://x.com/NanospeedGamer)
-
-### MrMario2011
-
-[https://x.com/MrMario2011](https://x.com/MrMario2011)
-
-[https://www.youtube.com/@MrMario2011](https://www.youtube.com/@MrMario2011)
-
-### dravszoo
-
-[https://www.youtube.com/@dravszoo](https://www.youtube.com/@dravszoo)
-
-[https://x.com/dravszoo1](https://x.com/dravszoo1)
-
-### VicianaLab
-
-[https://www.youtube.com/@VicianaLab](https://www.youtube.com/@VicianaLab)
-
-[https://x.com/VicianaLab](https://x.com/VicianaLab)
-
-### notzecoxao
-
-[https://www.youtube.com/@ControleXecute](https://www.youtube.com/@ControleXecute)
-
-[https://x.com/notnotzecoxao](https://x.com/notnotzecoxao)
+| Créateur / Média | Chaîne YouTube | Réseau Social (X) |
+| :--- | :--- | :--- |
+| **dravszoo** | [📺 YouTube](https://www.youtube.com/@dravszoo) | [🐦 @dravszoo1](https://x.com/dravszoo1) |
+| **mbcrump** | [📺 YouTube](https://www.youtube.com/mbcrump) | [🐦 @crump_youtube](https://x.com/crump_youtube) |
+| **MODDED_WARFARE** | [📺 YouTube](https://www.youtube.com/@MODDEDWARFARE) | [🐦 @MODDED_WARFARE](https://x.com/MODDED_WARFARE) |
+| **MrMario2011** | [📺 YouTube](https://www.youtube.com/@MrMario2011) | [🐦 @MrMario2011](https://x.com/MrMario2011) |
+| **NanospeedGamer** | [📺 YouTube](https://www.youtube.com/user/nanospeedyamaha) | [🐦 @NanospeedGamer](https://x.com/NanospeedGamer) |
+| **notzecoxao** | [📺 YouTube](https://www.youtube.com/@ControleXecute) | [🐦 @notnotzecoxao](https://x.com/notnotzecoxao) |
+| **TheWizWiki** | [📺 YouTube](https://www.youtube.com/@TheWizWiki) | [🐦 @TheWizWiki](https://x.com/TheWizWiki) |
+| **VicianaLab** | [📺 YouTube](https://www.youtube.com/@VicianaLab) | [🐦 @VicianaLab](https://x.com/VicianaLab) |
