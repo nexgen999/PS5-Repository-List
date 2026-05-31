@@ -467,10 +467,6 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 * [Repository](https://github.com/matem6/YarP2JB)
 * [RSS Feed](https://github.com/matem6/YarP2JB/releases.atom)
 
-### Matem6 - P2JB-Y2JB-Porting
-* [Repository](https://github.com/matem6/P2JB-Y2JB-Porting)
-* [RSS Feed](https://github.com/matem6/P2JB-Y2JB-Porting/releases.atom)
-
 ### Deejay87 - PS4-PS5-Payloads-Sender
 * [Repository](https://github.com/deejay87/PS4-PS5-Payloads-Sender)
 * [RSS Feed](https://github.com/deejay87/PS4-PS5-Payloads-Sender/releases.atom)
