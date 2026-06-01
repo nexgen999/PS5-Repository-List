@@ -87,7 +87,7 @@ The `PS5_Repository_Feeds.opml` file is a universal XML (OPML) standard encompas
 To read this file and track updates, you must use an **RSS feed reader application** (an aggregator). 
 
 ```text
- PS5_Repositories_Feeds.opml file  📥  Your RSS Reader  ➡️  Live notifications as soon as a PS5 tool drops!
+ PS5_Repository_Feeds.opml file  📥  Your RSS Reader  ➡️  Live notifications as soon as a PS5 tool drops!
 
 🚀 Setup Steps:
 Download an RSS Reader:
@@ -100,13 +100,13 @@ Download an RSS Reader:
 
 Import the Configuration File:
 
-Download the PS5_Repositories_Feeds.opml file from this repository.
+Download the PS5_Repository_Feeds.opml file from this repository.
 
 Open your RSS reader and head to Settings / Options.
 
 Look for the "Import" option (sometimes named Import OPML / XML).
 
-Select the PS5_Repositories_Feeds.opml file.
+Select the PS5_Repository_Feeds.opml file.
 
 You are all set! Your reader will sync automatically. You will now receive instant push alerts whenever a developer publishes a new release or a hotfix commit, removing any need to manually refresh dozens of web pages.
 
