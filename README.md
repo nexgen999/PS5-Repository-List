@@ -74,8 +74,8 @@ Voici l'indexation complète et cliquable de l'intégralité des fichiers de cla
 Fichier listant l'intégralité des dépôts de ce projet avec la syntaxe exacte de leurs flux RSS/Atom. Pratique pour auditer ou piocher un flux en particulier.
 * 📄 **[Consulter le fichier : PS5-Repository-List-with-RSS.md](./PS5-Repository-List-with-RSS.md)**
 
-### 📥 Utilisation avancée du fichier `PS5_Repositories_Feeds.opml`
-Le fichier `PS5_Repositories_Feeds.opml` est un standard universel XML (OPML) qui regroupe **tous les flux RSS de la scène PS5** référencés ici. Au lieu d'ajouter manuellement les dizaines de dépôts un par un, ce fichier vous permet de tout configurer en un seul clic !
+### 📥 Utilisation avancée du fichier `PS5_Repository_Feeds.opml`
+Le fichier `PS5_Repository_Feeds.opml` est un standard universel XML (OPML) qui regroupe **tous les flux RSS de la scène PS5** référencés ici. Au lieu d'ajouter manuellement les dizaines de dépôts un par un, ce fichier vous permet de tout configurer en un seul clic !
 
 * 💾 **[Télécharger le fichier prêt à l'emploi : PS5_Repository_Feeds.opml](./PS5_Repository_Feeds.opml)**  
   *(Astuce : Clic droit sur le lien -> "Enregistrer le lien sous..." pour le télécharger directement).*
