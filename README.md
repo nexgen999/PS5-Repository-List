@@ -5,7 +5,7 @@
   <img src="https://github.com/nexgen999.png" width="110" height="110" style="border-radius: 50%; border: 3px solid #003087;" alt="nexgen999 Profile">
   <br><br>
   <!-- Logo officiel PlayStation 5 -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/PlayStation_5_logo_and_wordmark.svg/512px-PlayStation_5_logo_and_wordmark.svg.png" width="280" alt="PS5 Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/PlayStation_5_logo_and_wordmark.svg/330px-PlayStation_5_logo_and_wordmark.svg.png" width="280" alt="PS5 Logo">
   
   <p><em>Index ultime, centralisé et automatisé pour l'écosystème PlayStation 5 (Homebrews, Payloads, Outils et Tutoriels).</em></p>
   
