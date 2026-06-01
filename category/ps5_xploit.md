@@ -77,6 +77,3 @@
 
 [https://github.com/dragancla/Netflix-N-Hack](https://github.com/dragancla/Netflix-N-Hack)
 
-### PS4macedo
-
-[https://github.com/ps4macedo?tab=repositories](https://github.com/ps4macedo?tab=repositories)
