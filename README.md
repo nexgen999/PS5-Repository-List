@@ -107,7 +107,7 @@ Sélectionnez le fichier PS5_Repositories_Feeds.opml.
 
 C'est prêt ! Votre lecteur va se synchroniser tout seul et vous recevrez une alerte en direct dès qu'un développeur publiera une nouvelle version (Release) ou un correctif de code, sans avoir à rafraîchir manuellement des dizaines de pages web.
 
-🤝 Protocole de Contribution
+## 🤝 Protocole de Contribution
 Ce dépôt est un projet vivant maintenu pour la communauté. Si vous constatez un lien mort, un flux RSS expiré, ou si vous souhaitez ajouter un nouveau dépôt, un Youtuber ou un compte X manquant :
 
 Via les Issues : Ouvrez une Issue pour signaler le problème ou suggérer un ajout.
