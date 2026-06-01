@@ -97,13 +97,13 @@ Téléchargez un lecteur RSS :
 
 Importez le fichier :
 
-Téléchargez le fichier PS5_Repositories_Feeds.opml depuis ce dépôt.
+Téléchargez le fichier PS5_Repository_Feeds.opml depuis ce dépôt.
 
 Ouvrez votre lecteur RSS et allez dans les Paramètres / Options.
 
 Cherchez l'option "Importer" (ou Import OPML / XML).
 
-Sélectionnez le fichier PS5_Repositories_Feeds.opml.
+Sélectionnez le fichier PS5_Repository_Feeds.opml.
 
 C'est prêt ! Votre lecteur va se synchroniser tout seul et vous recevrez une alerte en direct dès qu'un développeur publiera une nouvelle version (Release) ou un correctif de code, sans avoir à rafraîchir manuellement des dizaines de pages web.
 
