@@ -11,7 +11,7 @@
   
   [![GitHub license](https://img.shields.io/github/license/nexgen999/PS5-Repository-List?style=flat-square&color=003087)](LICENSE)
   [![GitHub last commit](https://img.shields.io/github/last-commit/nexgen999/PS5-Repository-List?style=flat-square&color=f47521)](https://github.com/nexgen999/PS5-Repository-List/commits/main)
-  [![Feeds](https://img.shields.io/badge/RSS_Feeds-Available-brightgreen?style=flat-square&logo=rss&logoColor=white)](./PS5_Repositories_Feeds.opml)
+  [![Feeds](https://img.shields.io/badge/RSS_Feeds-Available-brightgreen?style=flat-square&logo=rss&logoColor=white)](./PS5_Repository_Feeds.opml)
 </div>
 
 ---
