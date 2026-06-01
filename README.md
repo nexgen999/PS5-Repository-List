@@ -77,7 +77,7 @@ Fichier listant l'intégralité des dépôts de ce projet avec la syntaxe exacte
 ### 📥 Utilisation avancée du fichier `PS5_Repositories_Feeds.opml`
 Le fichier `PS5_Repositories_Feeds.opml` est un standard universel XML (OPML) qui regroupe **tous les flux RSS de la scène PS5** référencés ici. Au lieu d'ajouter manuellement les dizaines de dépôts un par un, ce fichier vous permet de tout configurer en un seul clic !
 
-* 💾 **[Télécharger le fichier prêt à l'emploi : PS5_Repositories_Feeds.opml](./PS5_Repositories_Feeds.opml)**  
+* 💾 **[Télécharger le fichier prêt à l'emploi : PS5_Repository_Feeds.opml](./PS5_Repository_Feeds.opml)**  
   *(Astuce : Clic droit sur le lien -> "Enregistrer le lien sous..." pour le télécharger directement).*
 
 ---
