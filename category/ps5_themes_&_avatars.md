@@ -35,3 +35,7 @@ extract this zip on /data/AVATARS/
 ### Lapy - Avatar Maker 2.0
 
 [https://mega.nz/file/TZ0i0QwD#bR9tEaS4qd-ylsSyzQD3c2sciJTqtDJbKa9j2TyYPp4](https://mega.nz/file/TZ0i0QwD#bR9tEaS4qd-ylsSyzQD3c2sciJTqtDJbKa9j2TyYPp4)
+
+### NikoBellikJR31 - PS5_ICON_MANAGER
+
+[https://github.com/NikoBellikJR31/PS5_ICON_MANAGER](https://github.com/NikoBellikJR31/PS5_ICON_MANAGER)
