@@ -98,6 +98,10 @@
       <outline type="rss" text="Ps4macedo - send_pkg-payload (Releases)" title="Ps4macedo - send_pkg-payload (Releases)" xmlUrl="https://github.com/ps4macedo/send_pkg-payload/releases.atom" htmlUrl="https://github.com/ps4macedo/send_pkg-payload"/>
       <outline type="rss" text="Kerrdec97 - exFAT-Ripper (Releases)" title="Kerrdec97 - exFAT-Ripper (Releases)" xmlUrl="https://github.com/kerrdec97/exFAT-Ripper/releases.atom" htmlUrl="https://github.com/kerrdec97/exFAT-Ripper"/>
       <outline type="rss" text="illusionyy - ps5-fw-spoof (Releases)" title="illusionyy - ps5-fw-spoof (Releases)" xmlUrl="https://github.com/illusionyy/ps5-fw-spoof/releases.atom" htmlUrl="https://github.com/illusionyy/ps5-fw-spoof"/>
+      <outline type="rss" text="PSBrew - MicroMount (Releases)" title="PSBrew - MicroMount (Releases)" xmlUrl="https://github.com/PSBrew/MicroMount/releases.atom" htmlUrl="https://github.com/PSBrew/MicroMount"/>
+      <outline type="rss" text="PSBrew - MkPFS (Releases)" title="PSBrew - MkPFS (Releases)" xmlUrl="https://github.com/PSBrew/MkPFS/releases.atom" htmlUrl="https://github.com/PSBrew/MkPFS"/>
+      <outline type="rss" text="TheWizWikii - TheWiz-PS5-Easy-FFpkg-Maker (Releases)" title="TheWizWikii - TheWiz-PS5-Easy-FFpkg-Maker (Releases)" xmlUrl="https://github.com/TheWizWikii/TheWiz-PS5-Easy-FFpkg-Maker/releases.atom" htmlUrl="https://github.com/TheWizWikii/TheWiz-PS5-Easy-FFpkg-Maker"/>
+      <outline type="rss" text="NikoBellikJR31 - PS5_ICON_MANAGER (Releases)" title="NikoBellikJR31 - PS5_ICON_MANAGER (Releases)" xmlUrl="https://github.com/NikoBellikJR31/PS5_ICON_MANAGER/releases.atom" htmlUrl="https://github.com/NikoBellikJR31/PS5_ICON_MANAGER"/>
     </outline>
   </body>
 </opml>
