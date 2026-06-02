@@ -52,6 +52,7 @@ Une liste centralisée des développeurs, organisations et dépôts alternatifs.
 | **MasterPS0** | [github.com/MasterPS0](https://github.com/MasterPS0) |
 | **matem6** | [github.com/matem6](https://github.com/matem6) |
 | **Nazky** | [github.com/Nazky](https://github.com/Nazky) |
+| **NikoBellikJR31** | [github.com/NikoBellikJR31](https://github.com/NikoBellikJR31) |
 | **NookieAI** | [github.com/NookieAI](https://github.com/NookieAI) |
 | **notmaj0r** | [github.com/notmaj0r](https://github.com/notmaj0r) |
 | **OpenSourcereR-dev** | [github.com/OpenSourcereR-dev](https://github.com/OpenSourcereR-dev) |
@@ -59,11 +60,13 @@ Une liste centralisée des développeurs, organisations et dépôts alternatifs.
 | **ps4macedo** | [github.com/ps4macedo](https://github.com/ps4macedo) |
 | **ps5-linux** | [github.com/ps5-linux](https://github.com/ps5-linux) |
 | **ps5xploit** | [github.com/ps5xploit](https://github.com/ps5xploit) |
+| **PSBrew** | [github.com/PSBrew](https://github.com/PSBrew) |
 | **Rufidj** | [github.com/Rufidj](https://github.com/Rufidj) |
 | **seregonwar** | [github.com/seregonwar](https://github.com/seregonwar) |
 | **SiSTR0** | [github.com/SiSTR0](https://github.com/SiSTR0) |
 | **SvenGDK** | [github.com/SvenGDK](https://github.com/SvenGDK) |
 | **TeeKay87** | [github.com/TeeKay87](https://github.com/TeeKay87) |
+| **TheWizWikii** | [github.com/TheWizWikii](https://github.com/TheWizWikii) |
 | **zecoxao** | [github.com/zecoxao](https://github.com/zecoxao) |
 
 ---
