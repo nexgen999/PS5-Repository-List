@@ -486,3 +486,19 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 ### illusionyy - ps5-fw-spoof
 * [Repository](https://github.com/illusionyy/ps5-fw-spoof)
 * [RSS Feed](https://github.com/illusionyy/ps5-fw-spoof/releases.atom)
+
+### Micromount
+[Repository](https://github.com/PSBrew/MicroMount)
+[RSS Feed](https://github.com/PSBrew/MicroMount/releases.atom)
+
+### MkPFS
+[Repository](https://github.com/PSBrew/MkPFS)
+[RSS Feed](https://github.com/PSBrew/MkPFS/releases.atom)
+
+### TheWiz-PS5-Easy-FFpkg-Maker
+[Repository](https://github.com/TheWizWikii/TheWiz-PS5-Easy-FFpkg-Maker)
+[RSS Feed](https://github.com/TheWizWikii/TheWiz-PS5-Easy-FFpkg-Maker/releases.atom)
+
+### NikoBellikJR31 - PS5_ICON_MANAGER
+[Repository](https://github.com/NikoBellikJR31/PS5_ICON_MANAGER)
+[RSS Feed](https://github.com/NikoBellikJR31/PS5_ICON_MANAGER/releases.atom)
