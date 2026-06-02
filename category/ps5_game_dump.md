@@ -52,7 +52,7 @@
 
 ### MkPFS
 
-{https://github.com/PSBrew/MkPFS](https://github.com/PSBrew/MkPFS)
+[https://github.com/PSBrew/MkPFS](https://github.com/PSBrew/MkPFS)
 
 ### TheWiz-PS5-Easy-FFpkg-Maker
 
