@@ -529,3 +529,7 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 ### seregonwar - Ghostpad
 * [Repository](https://github.com/seregonwar/Ghostpad)
 * [RSS Feed](https://github.com/seregonwar/Ghostpad/releases.atom)
+
+### Rufidj - Nativehbl
+* [Repository](https://github.com/Rufidj/Nativehbl)
+* [RSS Feed](https://github.com/Rufidj/Nativehbl/releases.atom)
