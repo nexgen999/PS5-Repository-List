@@ -1,0 +1,3 @@
+@echo off
+:: Lance PowerShell, exécute l'installation complète et lance le resolver
+powershell -NoExit -Command "Set-ExecutionPolicy Unrestricted -Scope Process; echo '--> Clonage du repo...'; git clone https://github.com/pegasus-ps5/pegasus-resolver.git; cd pegasus-resolver; echo '--> Activation de l''environnement virtuel...'; .\venv\Scripts\Activate.ps1; echo '--> Installation des dependances...'; python -m pip install -e .; echo '--> Installation de patchright...'; patchright install; echo '--> Lancement de pegasus-resolver...'; pegasus-resolver --host 192.168.1.18 --port 7799"
