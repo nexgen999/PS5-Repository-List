@@ -488,17 +488,44 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 * [RSS Feed](https://github.com/illusionyy/ps5-fw-spoof/releases.atom)
 
 ### Micromount
-[Repository](https://github.com/PSBrew/MicroMount)
-[RSS Feed](https://github.com/PSBrew/MicroMount/releases.atom)
+* [Repository](https://github.com/PSBrew/MicroMount)
+* [RSS Feed](https://github.com/PSBrew/MicroMount/releases.atom)
 
 ### MkPFS
-[Repository](https://github.com/PSBrew/MkPFS)
-[RSS Feed](https://github.com/PSBrew/MkPFS/releases.atom)
+* [Repository](https://github.com/PSBrew/MkPFS)
+* [RSS Feed](https://github.com/PSBrew/MkPFS/releases.atom)
 
 ### TheWiz-PS5-Easy-FFpkg-Maker
-[Repository](https://github.com/TheWizWikii/TheWiz-PS5-Easy-FFpkg-Maker)
-[RSS Feed](https://github.com/TheWizWikii/TheWiz-PS5-Easy-FFpkg-Maker/releases.atom)
+* [Repository](https://github.com/TheWizWikii/TheWiz-PS5-Easy-FFpkg-Maker)
+* [RSS Feed](https://github.com/TheWizWikii/TheWiz-PS5-Easy-FFpkg-Maker/releases.atom)
 
 ### NikoBellikJR31 - PS5_ICON_MANAGER
-[Repository](https://github.com/NikoBellikJR31/PS5_ICON_MANAGER)
-[RSS Feed](https://github.com/NikoBellikJR31/PS5_ICON_MANAGER/releases.atom)
+* [Repository](https://github.com/NikoBellikJR31/PS5_ICON_MANAGER)
+* [RSS Feed](https://github.com/NikoBellikJR31/PS5_ICON_MANAGER/releases.atom)
+
+### FPKGi
+* [Repository](https://pkg-zone.com/details/PKGI13337)
+
+### PS5 Shop App PKG
+* [Repository](https://github.com/ps5xploit/ps5shopappkg)
+* [RSS Feed](https://github.com/ps5xploit/ps5shopappkg/releases.atom)
+
+### MestreTM - ps5_pkg_virtual_shop
+* [Repository](https://github.com/MestreTM/ps5_pkg_virtual_shop)
+* [RSS Feed](https://github.com/MestreTM/ps5_pkg_virtual_shop/releases.atom)
+
+### pegasus-ps5 - pegasus-dl
+* [Repository](https://github.com/pegasus-ps5/pegasus-dl)
+* [RSS Feed](https://github.com/pegasus-ps5/pegasus-dl/releases.atom)
+
+### pegasus-ps5 - pegasus-resolver
+* [Repository](https://github.com/pegasus-ps5/pegasus-resolver)
+* [RSS Feed](https://github.com/pegasus-ps5/pegasus-resolver/releases.atom)
+
+### Phoenixx1202 - MkPFS (GUI)
+* [Repository](https://github.com/Phoenixx1202/MkPFS)
+* [RSS Feed](https://github.com/Phoenixx1202/MkPFS/releases.atom)
+
+### seregonwar - Ghostpad
+* [Repository](https://github.com/seregonwar/Ghostpad)
+* [RSS Feed](https://github.com/seregonwar/Ghostpad/releases.atom)
