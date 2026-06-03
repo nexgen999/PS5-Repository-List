@@ -10,9 +10,6 @@
 
 [https://github.com/ps5xploit/WBrowser](https://github.com/ps5xploit/WBrowser)
 
-### PS5 Shop App PKG
-
-[https://github.com/ps5xploit/ps5shopappkg](https://github.com/ps5xploit/ps5shopappkg)
 
 ### PS5 Shortcuts pkg
 
