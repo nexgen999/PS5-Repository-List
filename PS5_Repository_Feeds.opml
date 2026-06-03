@@ -102,6 +102,12 @@
       <outline type="rss" text="PSBrew - MkPFS (Releases)" title="PSBrew - MkPFS (Releases)" xmlUrl="https://github.com/PSBrew/MkPFS/releases.atom" htmlUrl="https://github.com/PSBrew/MkPFS"/>
       <outline type="rss" text="TheWizWikii - TheWiz-PS5-Easy-FFpkg-Maker (Releases)" title="TheWizWikii - TheWiz-PS5-Easy-FFpkg-Maker (Releases)" xmlUrl="https://github.com/TheWizWikii/TheWiz-PS5-Easy-FFpkg-Maker/releases.atom" htmlUrl="https://github.com/TheWizWikii/TheWiz-PS5-Easy-FFpkg-Maker"/>
       <outline type="rss" text="NikoBellikJR31 - PS5_ICON_MANAGER (Releases)" title="NikoBellikJR31 - PS5_ICON_MANAGER (Releases)" xmlUrl="https://github.com/NikoBellikJR31/PS5_ICON_MANAGER/releases.atom" htmlUrl="https://github.com/NikoBellikJR31/PS5_ICON_MANAGER"/>
+      <outline type="rss" text="MestreTM - ps5_pkg_virtual_shop (Releases)" title="MestreTM - ps5_pkg_virtual_shop (Releases)" xmlUrl="https://github.com/MestreTM/ps5_pkg_virtual_shop/releases.atom" htmlUrl="https://github.com/MestreTM/ps5_pkg_virtual_shop"/>
+      <outline type="rss" text="pegasus-ps5 - pegasus-dl (Releases)" title="pegasus-ps5 - pegasus-dl (Releases)" xmlUrl="https://github.com/pegasus-ps5/pegasus-dl/releases.atom" htmlUrl="https://github.com/pegasus-ps5/pegasus-dl"/>
+      <outline type="rss" text="pegasus-ps5 - pegasus-resolver (Releases)" title="pegasus-ps5 - pegasus-resolver (Releases)" xmlUrl="https://github.com/pegasus-ps5/pegasus-resolver/releases.atom" htmlUrl="https://github.com/pegasus-ps5/pegasus-resolver"/>
+      <outline type="rss" text="Phoenixx1202 - MkPFS GUI (Releases)" title="Phoenixx1202 - MkPFS GUI (Releases)" xmlUrl="https://github.com/Phoenixx1202/MkPFS/releases.atom" htmlUrl="https://github.com/Phoenixx1202/MkPFS"/>
+      <outline type="rss" text="seregonwar - Ghostpad (Releases)" title="seregonwar - Ghostpad (Releases)" xmlUrl="https://github.com/seregonwar/Ghostpad/releases.atom" htmlUrl="https://github.com/seregonwar/Ghostpad"/>
+      <outline type="rss" text="Rufidj - Nativehbl (Releases)" title="Rufidj - Nativehbl (Releases)" xmlUrl="https://github.com/Rufidj/Nativehbl/releases.atom" htmlUrl="https://github.com/Rufidj/Nativehbl"/>
     </outline>
   </body>
 </opml>
