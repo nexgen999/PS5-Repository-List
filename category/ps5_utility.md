@@ -31,6 +31,10 @@ https://mega.nz/folder/095FAKgI#65aXhbTQzp-A-exxWyxR_A
 
 [https://github.com/StonedModder/Ghostpad](https://github.com/StonedModder/Ghostpad)
 
+### seregonwar - Ghostpad
+
+[https://github.com/seregonwar/Ghostpad](https://github.com/seregonwar/Ghostpad)
+
 ### StonedModder - HID-Dumper
 
 [https://github.com/StonedModder/HID-Dumper](https://github.com/StonedModder/HID-Dumper)
