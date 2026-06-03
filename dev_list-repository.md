@@ -41,6 +41,7 @@ Une liste centralisée des développeurs, organisations et dépôts alternatifs.
 | **cy33hc** | [github.com/cy33hc](https://github.com/cy33hc) |
 | **deejay87** | [github.com/deejay87](https://github.com/deejay87) |
 | **dragancla** | [github.com/dragancla](https://github.com/dragancla) |
+| **DrYenyen** | [github.com/DrYenyen](https://github.com/DrYenyen) |
 | **etaHEN** | [github.com/etaHEN](https://github.com/etaHEN) |
 | **illusionyy** | [github.com/illusionyy](https://github.com/illusionyy) |
 | **itsPLK** | [github.com/itsPLK](https://github.com/itsPLK) |
@@ -51,11 +52,14 @@ Une liste centralisée des développeurs, organisations et dépôts alternatifs.
 | **lz-anonz** | [github.com/lz-anonz](https://github.com/lz-anonz) |
 | **MasterPS0** | [github.com/MasterPS0](https://github.com/MasterPS0) |
 | **matem6** | [github.com/matem6](https://github.com/matem6) |
+| **MestreTM** | [github.com/MestreTM](https://github.com/MestreTM) |
 | **Nazky** | [github.com/Nazky](https://github.com/Nazky) |
 | **NikoBellikJR31** | [github.com/NikoBellikJR31](https://github.com/NikoBellikJR31) |
 | **NookieAI** | [github.com/NookieAI](https://github.com/NookieAI) |
 | **notmaj0r** | [github.com/notmaj0r](https://github.com/notmaj0r) |
 | **OpenSourcereR-dev** | [github.com/OpenSourcereR-dev](https://github.com/OpenSourcereR-dev) |
+| **pegasus-ps5** | [github.com/pegasus-ps5](https://github.com/pegasus-ps5) |
+| **Phoenixx1202** | [github.com/Phoenixx1202](https://github.com/Phoenixx1202) |
 | **ps3120** | [github.com/ps3120](https://github.com/ps3120) |
 | **ps4macedo** | [github.com/ps4macedo](https://github.com/ps4macedo) |
 | **ps5-linux** | [github.com/ps5-linux](https://github.com/ps5-linux) |
