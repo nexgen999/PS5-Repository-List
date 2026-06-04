@@ -311,6 +311,10 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 * [Repository](https://github.com/ps5-linux/ps5-linux-tools)
 * [RSS Feed](https://github.com/ps5-linux/ps5-linux-tools/releases.atom)
 
+### ps5-linux-image
+* [Repository](https://github.com/ps5-linux/ps5-linux-image)
+* [RSS Feed](https://github.com/ps5-linux/ps5-linux-image/releases.atom)
+
 ---
 
 ### Porkfolio 1.0.6
