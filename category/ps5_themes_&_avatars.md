@@ -39,3 +39,11 @@ extract this zip on /data/AVATARS/
 ### NikoBellikJR31 - PS5_ICON_MANAGER
 
 [https://github.com/NikoBellikJR31/PS5_ICON_MANAGER](https://github.com/NikoBellikJR31/PS5_ICON_MANAGER)
+
+### NikoBellikJR31 - PS5-Custom-Tool-Manager-
+
+[https://github.com/NikoBellikJR31/PS5-Custom-Tool-Manager-](https://github.com/NikoBellikJR31/PS5-Custom-Tool-Manager-)
+
+### hgr9519 - ps5-wallpaper-modd
+
+[https://github.com/hgr9519/ps5-wallpaper-modd](https://github.com/hgr9519/ps5-wallpaper-modd)
