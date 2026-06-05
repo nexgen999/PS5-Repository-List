@@ -109,6 +109,9 @@
       <outline type="rss" text="seregonwar - Ghostpad (Releases)" title="seregonwar - Ghostpad (Releases)" xmlUrl="https://github.com/seregonwar/Ghostpad/releases.atom" htmlUrl="https://github.com/seregonwar/Ghostpad"/>
       <outline type="rss" text="Rufidj - Nativehbl (Releases)" title="Rufidj - Nativehbl (Releases)" xmlUrl="https://github.com/Rufidj/Nativehbl/releases.atom" htmlUrl="https://github.com/Rufidj/Nativehbl"/>
       <outline type="rss" text="ps5-linux-image (Releases)" title="ps5-linux-image (Releases)" xmlUrl="https://github.com/ps5-linux/ps5-linux-image/releases.atom" htmlUrl="https://github.com/ps5-linux/ps5-linux-image"/>
+      <outline type="rss" text="NikoBellikJR31 - PS5-Custom-Tool-Manager- (Releases)" title="NikoBellikJR31 - PS5-Custom-Tool-Manager- (Releases)" xmlUrl="https://github.com/NikoBellikJR31/PS5-Custom-Tool-Manager-/releases.atom" htmlUrl="https://github.com/NikoBellikJR31/PS5-Custom-Tool-Manager-"/>
+      <outline type="rss" text="hgr9519 - ps5-wallpaper-modd (Releases)" title="hgr9519 - ps5-wallpaper-modd (Releases)" xmlUrl="https://github.com/hgr9519/ps5-wallpaper-modd/releases.atom" htmlUrl="https://github.com/hgr9519/ps5-wallpaper-modd"/>
+      <outline type="rss" text="bizkut - ps5-ffpfs-cli (Releases)" title="bizkut - ps5-ffpfs-cli (Releases)" xmlUrl="https://github.com/bizkut/ps5-ffpfs-cli/releases.atom" htmlUrl="https://github.com/bizkut/ps5-ffpfs-cli"/>
     </outline>
   </body>
 </opml>
