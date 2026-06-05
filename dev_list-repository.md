@@ -38,11 +38,13 @@ Une liste centralisée des développeurs, organisations et dépôts alternatifs.
 | **aldostools** | [github.com/aldostools](https://github.com/aldostools) |
 | **barisyild** | [github.com/barisyild](https://github.com/barisyild) |
 | **BestPig** | [github.com/BestPig](https://github.com/BestPig) |
+| **bizkut** | [github.com/bizkut](https://github.com/bizkut) |
 | **cy33hc** | [github.com/cy33hc](https://github.com/cy33hc) |
 | **deejay87** | [github.com/deejay87](https://github.com/deejay87) |
 | **dragancla** | [github.com/dragancla](https://github.com/dragancla) |
 | **DrYenyen** | [github.com/DrYenyen](https://github.com/DrYenyen) |
 | **etaHEN** | [github.com/etaHEN](https://github.com/etaHEN) |
+| **hgr9519** | [github.com/hgr9519](https://github.com/hgr9519) |
 | **illusionyy** | [github.com/illusionyy](https://github.com/illusionyy) |
 | **itsPLK** | [github.com/itsPLK](https://github.com/itsPLK) |
 | **jdros15** | [github.com/jdros15](https://github.com/jdros15) |
