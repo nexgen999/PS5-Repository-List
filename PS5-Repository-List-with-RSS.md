@@ -537,3 +537,16 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 ### Rufidj - Nativehbl
 * [Repository](https://github.com/Rufidj/Nativehbl)
 * [RSS Feed](https://github.com/Rufidj/Nativehbl/releases.atom)
+
+### bizkut - ps5-ffpfs-cli
+* [Repository](https://github.com/bizkut/ps5-ffpfs-cli)
+* [RSS Feed](https://github.com/bizkut/ps5-ffpfs-cli/releases.atom)
+
+### NikoBellikJR31 - PS5-Custom-Tool-Manager-
+* [Repository](https://github.com/NikoBellikJR31/PS5-Custom-Tool-Manager-)
+* [RSS Feed](https://github.com/NikoBellikJR31/PS5-Custom-Tool-Manager-/releases.atom)
+
+### hgr9519 - ps5-wallpaper-modd
+* [Repository](https://github.com/hgr9519/ps5-wallpaper-modd)
+* [RSS Feed](https://github.com/hgr9519/ps5-wallpaper-modd/releases.atom)
+
