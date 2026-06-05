@@ -61,3 +61,7 @@
 ### Phoenixx1202 - MkPFS (GUI)
 
 [https://github.com/Phoenixx1202/MkPFS](https://github.com/Phoenixx1202/MkPFS)
+
+### bizkut - ps5-ffpfs-cli
+
+[https://github.com/bizkut/ps5-ffpfs-cli](https://github.com/bizkut/ps5-ffpfs-cli)
