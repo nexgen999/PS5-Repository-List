@@ -65,3 +65,7 @@
 ### bizkut - ps5-ffpfs-cli
 
 [https://github.com/bizkut/ps5-ffpfs-cli](https://github.com/bizkut/ps5-ffpfs-cli)
+
+### deejay87 - PS5-MKPFS-Image-Builder
+
+[https://github.com/deejay87/PS5-MKPFS-Image-Builder](https://github.com/deejay87/PS5-MKPFS-Image-Builder)
