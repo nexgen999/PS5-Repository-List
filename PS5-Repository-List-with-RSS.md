@@ -550,3 +550,10 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 * [Repository](https://github.com/hgr9519/ps5-wallpaper-modd)
 * [RSS Feed](https://github.com/hgr9519/ps5-wallpaper-modd/releases.atom)
 
+### deejay87 - PS5-MKPFS-Image-Builder
+* [Repository](https://github.com/deejay87/PS5-MKPFS-Image-Builder)
+* [RSS Feed](https://github.com/deejay87/PS5-MKPFS-Image-Builder/releases.atom)
+
+### Phoenixx1202 - Spectrum-Library
+* [Repository](https://github.com/Phoenixx1202/Spectrum-Library)
+* [RSS Feed](https://github.com/Phoenixx1202/Spectrum-Library/releases.atom)
