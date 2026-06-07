@@ -69,3 +69,7 @@
 ### deejay87 - PS5-MKPFS-Image-Builder
 
 [https://github.com/deejay87/PS5-MKPFS-Image-Builder](https://github.com/deejay87/PS5-MKPFS-Image-Builder)
+
+### chuey-316-dev - PS5-Image-Converter
+
+[https://github.com/chuey-316-dev/PS5-Image-Converter](https://github.com/chuey-316-dev/PS5-Image-Converter)
