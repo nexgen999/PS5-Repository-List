@@ -46,10 +46,6 @@
 
 [https://www.marcrobledo.com/RomPatcher.js/](https://www.marcrobledo.com/RomPatcher.js/)
 
-### Micromount
-
-[https://github.com/PSBrew/MicroMount](https://github.com/PSBrew/MicroMount)
-
 ### MkPFS
 
 [https://github.com/PSBrew/MkPFS](https://github.com/PSBrew/MkPFS)
