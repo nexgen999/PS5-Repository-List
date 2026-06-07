@@ -530,9 +530,9 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 * [Repository](https://github.com/Phoenixx1202/MkPFS)
 * [RSS Feed](https://github.com/Phoenixx1202/MkPFS/releases.atom)
 
-### seregonwar - Ghostpad
-* [Repository](https://github.com/seregonwar/Ghostpad)
-* [RSS Feed](https://github.com/seregonwar/Ghostpad/releases.atom)
+### AssPayload - Ghostpad
+* [Repository](https://github.com/AssPayload/Ghostpad)
+* [RSS Feed](https://github.com/AssPayload/Ghostpad/releases.atom)
 
 ### Rufidj - Nativehbl
 * [Repository](https://github.com/Rufidj/Nativehbl)
@@ -557,3 +557,7 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 ### Phoenixx1202 - Spectrum-Library
 * [Repository](https://github.com/Phoenixx1202/Spectrum-Library)
 * [RSS Feed](https://github.com/Phoenixx1202/Spectrum-Library/releases.atom)
+
+### chuey-316-dev - PS5-Image-Converter
+* [Repository](https://github.com/chuey-316-dev/PS5-Image-Converter)
+* [RSS Feed](https://github.com/chuey-316-dev/PS5-Image-Converter/releases.atom)
