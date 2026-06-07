@@ -522,10 +522,6 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 * [Repository](https://github.com/pegasus-ps5/pegasus-dl)
 * [RSS Feed](https://github.com/pegasus-ps5/pegasus-dl/releases.atom)
 
-### pegasus-ps5 - pegasus-resolver
-* [Repository](https://github.com/pegasus-ps5/pegasus-resolver)
-* [RSS Feed](https://github.com/pegasus-ps5/pegasus-resolver/releases.atom)
-
 ### Phoenixx1202 - MkPFS (GUI)
 * [Repository](https://github.com/Phoenixx1202/MkPFS)
 * [RSS Feed](https://github.com/Phoenixx1202/MkPFS/releases.atom)
