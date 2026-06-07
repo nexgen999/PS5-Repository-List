@@ -14,10 +14,6 @@
 
 [https://github.com/pegasus-ps5/pegasus-dl](https://github.com/pegasus-ps5/pegasus-dl)
 
-### pegasus-ps5 - pegasus-resolver
-
-[https://github.com/pegasus-ps5/pegasus-resolver](https://github.com/pegasus-ps5/pegasus-resolver)
-
 ### Phoenixx1202 - Spectrum-Library
 
 [https://github.com/Phoenixx1202/Spectrum-Library](https://github.com/Phoenixx1202/Spectrum-Library)
