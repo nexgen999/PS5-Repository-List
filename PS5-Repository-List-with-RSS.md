@@ -491,10 +491,6 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 * [Repository](https://github.com/illusionyy/ps5-fw-spoof)
 * [RSS Feed](https://github.com/illusionyy/ps5-fw-spoof/releases.atom)
 
-### Micromount
-* [Repository](https://github.com/PSBrew/MicroMount)
-* [RSS Feed](https://github.com/PSBrew/MicroMount/releases.atom)
-
 ### MkPFS
 * [Repository](https://github.com/PSBrew/MkPFS)
 * [RSS Feed](https://github.com/PSBrew/MkPFS/releases.atom)
