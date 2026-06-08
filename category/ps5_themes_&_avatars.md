@@ -4,7 +4,7 @@
 
 ### StonedModder Y2JB-Genny
 
-{https://github.com/StonedModder/Y2JB-Genny](https://github.com/StonedModder/Y2JB-Genny)
+[https://github.com/StonedModder/Y2JB-Genny](https://github.com/StonedModder/Y2JB-Genny)
 
 ### Y2JB-1.3-PLK-0.4-By VoidWhisper
 
