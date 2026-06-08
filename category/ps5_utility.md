@@ -31,6 +31,10 @@ https://mega.nz/folder/095FAKgI#65aXhbTQzp-A-exxWyxR_A
 
 [https://github.com/StonedModder/Ghostpad](https://github.com/StonedModder/Ghostpad)
 
+### StonedModder - Ghostcontrol-PS5-USB-Controller-Patcher
+
+[https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher](https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher)
+
 ### seregonwar - Ghostpad
 
 [https://github.com/seregonwar/Ghostpad](https://github.com/seregonwar/Ghostpad)
