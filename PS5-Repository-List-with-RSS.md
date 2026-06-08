@@ -554,6 +554,6 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 * [Repository](https://github.com/chuey-316-dev/PS5-Image-Converter)
 * [RSS Feed](https://github.com/chuey-316-dev/PS5-Image-Converter/releases.atom)
 
-### https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher
+### StonedModder - Ghostcontrol-PS5-USB-Controller-Patcher
 * [Repository](https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher)
 * [RSS Feed](https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases.atom)
