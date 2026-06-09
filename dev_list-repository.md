@@ -39,7 +39,7 @@ Une liste centralisée des développeurs, organisations et dépôts alternatifs.
 | **barisyild** | [github.com/barisyild](https://github.com/barisyild) |
 | **BestPig** | [github.com/BestPig](https://github.com/BestPig) |
 | **bizkut** | [github.com/bizkut](https://github.com/bizkut) |
-| **chuey-316-dev** | [github.com/chuey-316-dev](https://github.com/cchuey-316-dev) |
+| **chuey-316-dev** | [github.com/chuey-316-dev](https://github.com/chuey-316-dev) |
 | **cy33hc** | [github.com/cy33hc](https://github.com/cy33hc) |
 | **deejay87** | [github.com/deejay87](https://github.com/deejay87) |
 | **dragancla** | [github.com/dragancla](https://github.com/dragancla) |
