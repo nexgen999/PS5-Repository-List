@@ -19,6 +19,7 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 
 * [Darthsternie PS5 Firmwares](https://darthsternie.net/ps5-firmwares/)
 * [Darksoftware PS5 FWlist](https://darksoftware.xyz/PS5/FWlist)
+* [archive.midnightchannel.net](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=ps5sys)
 
 ---
 
