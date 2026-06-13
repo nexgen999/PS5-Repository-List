@@ -39,7 +39,7 @@ Une liste centralisée des développeurs, organisations et dépôts alternatifs.
 | **barisyild** | [github.com/barisyild](https://github.com/barisyild) |
 | **BestPig** | [github.com/BestPig](https://github.com/BestPig) |
 | **bizkut** | [github.com/bizkut](https://github.com/bizkut) |
-| **chuey-316-dev** | [github.com/chuey-316-dev](https://github.com/chuey-316-dev) |
+| **KryoMod** | [github.com/KryoMod](https://github.com/KryoMod) |
 | **cy33hc** | [github.com/cy33hc](https://github.com/cy33hc) |
 | **deejay87** | [github.com/deejay87](https://github.com/deejay87) |
 | **dragancla** | [github.com/dragancla](https://github.com/dragancla) |
@@ -48,6 +48,7 @@ Une liste centralisée des développeurs, organisations et dépôts alternatifs.
 | **hgr9519** | [github.com/hgr9519](https://github.com/hgr9519) |
 | **illusionyy** | [github.com/illusionyy](https://github.com/illusionyy) |
 | **itsPLK** | [github.com/itsPLK](https://github.com/itsPLK) |
+| **juma-sayeh** | [github.com/juma-sayeh](https://github.com/juma-sayeh) |
 | **jdros15** | [github.com/jdros15](https://github.com/jdros15) |
 | **kerrdec97** | [github.com/kerrdec97](https://github.com/kerrdec97) |
 | **kmeps4** | [github.com/kmeps4](https://github.com/kmeps4) |
@@ -58,6 +59,7 @@ Une liste centralisée des développeurs, organisations et dépôts alternatifs.
 | **MestreTM** | [github.com/MestreTM](https://github.com/MestreTM) |
 | **Nazky** | [github.com/Nazky](https://github.com/Nazky) |
 | **NikoBellikJR31** | [github.com/NikoBellikJR31](https://github.com/NikoBellikJR31) |
+| **n0llptr** | [github.com/n0llptr](https://github.com/n0llptr) |
 | **NookieAI** | [github.com/NookieAI](https://github.com/NookieAI) |
 | **notmaj0r** | [github.com/notmaj0r](https://github.com/notmaj0r) |
 | **OpenSourcereR-dev** | [github.com/OpenSourcereR-dev](https://github.com/OpenSourcereR-dev) |
