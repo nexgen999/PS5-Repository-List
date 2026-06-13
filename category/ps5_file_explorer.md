@@ -6,3 +6,6 @@
 
 [https://github.com/ArkSama/PS5-Lapy-JB-Daemon](https://github.com/ArkSama/PS5-Lapy-JB-Daemon)
 
+### juma-sayeh - PS5-File-Explorer
+
+[https://github.com/juma-sayeh/PS5-File-Explorer](https://github.com/juma-sayeh/PS5-File-Explorer)
