@@ -558,3 +558,11 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 ### StonedModder - Ghostcontrol-PS5-USB-Controller-Patcher
 * [Repository](https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher)
 * [RSS Feed](https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases.atom)
+
+### juma-sayeh - PS5-File-Explorer
+* [Repository](https://github.com/juma-sayeh/PS5-File-Explorer)
+* [RSS Feed](https://github.com/juma-sayeh/PS5-File-Explorer/releases.atom)
+
+### juma-sayeh - PS5-Game-Compressor
+* [Repository](https://github.com/juma-sayeh/PS5-Game-Compressor)
+* [RSS Feed](https://github.com/juma-sayeh/PS5-Game-Compressor/releases.atom)
