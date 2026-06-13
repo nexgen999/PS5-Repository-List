@@ -551,9 +551,9 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 * [Repository](https://github.com/Phoenixx1202/Spectrum-Library)
 * [RSS Feed](https://github.com/Phoenixx1202/Spectrum-Library/releases.atom)
 
-### chuey-316-dev - PS5-Image-Converter
-* [Repository](https://github.com/chuey-316-dev/PS5-Image-Converter)
-* [RSS Feed](https://github.com/chuey-316-dev/PS5-Image-Converter/releases.atom)
+### KryoMod - PS5-Image-Converter
+* [Repository](https://github.com/KryoMod/PS5-Image-Converter)
+* [RSS Feed](https://github.com/KryoMod/PS5-Image-Converter/releases.atom)
 
 ### StonedModder - Ghostcontrol-PS5-USB-Controller-Patcher
 * [Repository](https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher)
@@ -566,3 +566,15 @@ List of PS5 repositories with their respective RSS/Atom feeds to track stable re
 ### juma-sayeh - PS5-Game-Compressor
 * [Repository](https://github.com/juma-sayeh/PS5-Game-Compressor)
 * [RSS Feed](https://github.com/juma-sayeh/PS5-Game-Compressor/releases.atom)
+
+### itsPLK - ps5-unified-autoloader
+* [Repository](https://github.com/itsPLK/ps5-unified-autoloader)
+* [RSS Feed](https://github.com/itsPLK/ps5-unified-autoloader/releases.atom)
+
+### n0llptr - Playstation-5-Save-Mounter
+* [Repository](https://github.com/n0llptr/Playstation-5-Save-Mounter)
+* [RSS Feed](https://github.com/n0llptr/Playstation-5-Save-Mounter/releases.atom)
+
+### StonedModder - savemnt-offset-dumper
+* [Repository](https://github.com/StonedModder/savemnt-offset-dumper)
+* [RSS Feed](https://github.com/StonedModder/savemnt-offset-dumper/releases.atom)
