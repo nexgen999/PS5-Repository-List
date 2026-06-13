@@ -66,6 +66,10 @@
 
 [https://github.com/deejay87/PS5-MKPFS-Image-Builder](https://github.com/deejay87/PS5-MKPFS-Image-Builder)
 
-### chuey-316-dev - PS5-Image-Converter
+### KryoMod - PS5-Image-Converter
 
-[https://github.com/chuey-316-dev/PS5-Image-Converter](https://github.com/chuey-316-dev/PS5-Image-Converter)
+[https://github.com/KryoMod/PS5-Image-Converter](https://github.com/KryoMod/PS5-Image-Converter)
+
+### juma-sayeh - PS5-Game-Compressor 
+
+[https://github.com/juma-sayeh/PS5-Game-Compressor](https://github.com/juma-sayeh/PS5-Game-Compressor)
