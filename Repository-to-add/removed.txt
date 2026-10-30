@@ -1,0 +1,17 @@
+Erreur critique - Erreur API GitHub (404 Not Found)
+
+
+https://github.com/theghostonline/PS5VR
+https://github.com/theghostonline/PS5-LZ4-Compression
+https://github.com/theghostonline/Nuvio-PS5
+https://github.com/SvenGDK/Prospero-Vibrate
+https://github.com/overdriveps5/game-store
+https://github.com/Globaleliteee/PS5NES
+https://github.com/Globaleliteee/PS5N64
+https://github.com/cherfia/raiju
+https://github.com/blackbearreloaded/ps5-opengl
+https://github.com/blackbearreloaded/ps5-homebrew-ui
+https://github.com/blackbearreloaded/ps5-fsr4
+https://github.com/Swordpdf/ProsperoEden
+https://github.com/BaZZtian/SilverBirch
+https://github.com/B4ckd0orl/Padrino-Save-Vault
