@@ -1025,10 +1025,6 @@
       "categoryId": "cat-ps5_fan"
     },
     {
-      "url": "https://github.com/MiladRx/Breeze",
-      "categoryId": "cat-ps5_fan"
-    },
-    {
       "url": "https://github.com/owendswang/ps5-fan-control",
       "categoryId": "cat-ps5_fan"
     },
@@ -1198,10 +1194,6 @@
     },
     {
       "url": "https://github.com/premohq/PS5-ECAM",
-      "categoryId": "cat-ps5_emulator"
-    },
-    {
-      "url": "https://github.com/premohq/PS5CEMU-HAR",
       "categoryId": "cat-ps5_emulator"
     },
     {
