@@ -5,6 +5,7 @@ https://github.com/Blackbatman/PS5GreenApple
 
 https://github.com/drakmor/ampr_emu
 https://github.com/quer3q/ampr-emu-ng
+https://github.com/meta/zstd
 
 https://github.com/Anime0t4ku/Prospero-Hi-Fi
 https://github.com/Marice/ps5-payloader
