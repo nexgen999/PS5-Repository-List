@@ -25,10 +25,10 @@ https://github.com/freefelt/StoreTileHider-PS5
 https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager
 https://github.com/bps2414/lineup
 https://github.com/abhi245y/ps5-discord
+https://github.com/kvaps/ProsperoWeb
 
 https://github.com/LEE-CHENYU/ps5-rocm
 https://github.com/M0S4YSH3LL0/mediathek-ps5
-
 
 https://github.com/TheRadziu/PS5-BDclone
 
