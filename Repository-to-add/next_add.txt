@@ -31,7 +31,6 @@ https://github.com/abhi245y/ps5-discord
 https://github.com/kvaps/ProsperoWeb
 https://github.com/hexreaper711/HixFlix
 https://github.com/Yahballon/PS5_StandbyClock
-https://github.com/ramalhoboss/PlayBridge
 https://github.com/mushidani/etaHEN-13.60
 https://github.com/xS3Cx/AniketosHEN
 https://github.com/coru182/PS5-KBM-Bridge
@@ -81,3 +80,7 @@ pc tool
 https://kryomod-tools.kryomod.workers.dev
 https://github.com/ansidium/nanoDNS-Desktop
 https://github.com/TheWizWikii/Convertidor-Pro
+
+NUKED BAD AI CLONE NOT WORK
+
+https://github.com/ramalhoboss/PlayBridge
