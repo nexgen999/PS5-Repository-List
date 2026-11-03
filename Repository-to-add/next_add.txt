@@ -2,11 +2,13 @@ custom fake mac (dangerous)
 https://github.com/Blackbatman/PS5GreenApple
 
 -------------------------------------------------
+https://github.com/seregonwar/sprxdump
+https://github.com/owendswang/ps5-web-browser-fullscreen
+https://github.com/AldySan/SM-Toolbox
 https://oliv3rmoon.github.io/Solanum-Catalog/
 https://github.com/Oliv3rmoon/Solanum
-https://github.com/heydemoura/EglantinePS5 - https://github.com/smarkyie/NSP-Box/releases
-https://github.com/Swordpdf/ProsperoEden
 https://github.com/leolobato/playden-ps5
+https://github.com/EpicKitten/playden-auto-game-tester
 https://github.com/drakmor/ampr_emu
 https://github.com/quer3q/ampr-emu-ng
 https://github.com/meta/zstd
@@ -27,11 +29,55 @@ https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager
 https://github.com/bps2414/lineup
 https://github.com/abhi245y/ps5-discord
 https://github.com/kvaps/ProsperoWeb
+https://github.com/hexreaper711/HixFlix
+https://github.com/Yahballon/PS5_StandbyClock
+https://github.com/ramalhoboss/PlayBridge
+https://github.com/mushidani/etaHEN-13.60
+https://github.com/xS3Cx/AniketosHEN
+https://github.com/coru182/PS5-KBM-Bridge
+https://github.com/Tenten1824/GWEN-RePLAY-PS5
+https://github.com/Forte500/ps5-youtube-update-blocker
+
+pad :
+https://github.com/MostimaJK/ControllerHub
+
+androidps5
+https://github.com/ZiZc3/Hydroid
+
+nswitch2 tool
+https://github.com/smarkyie/NSP-Box
+https://github.com/PastaLaPate/NUPPacker
+https://github.com/sinjunyoung/NSW.M2
+
+ps5 switch
+https://github.com/J4sp3rd3v/cerberoDEV
+https://github.com/heydemoura/EglantinePS5
+https://github.com/mucahidkambur/EglantinePS5
+https://github.com/Portablelle/EdGlantine-PS5
+https://github.com/Swordpdf/ProsperoEden
+
+linux tool
 
 https://github.com/LEE-CHENYU/ps5-rocm
 https://github.com/M0S4YSH3LL0/mediathek-ps5
+https://github.com/siddharthsaini/ps5-linux-fan-manager
+
+ps5 video bd ripper
 
 https://github.com/TheRadziu/PS5-BDclone
 
+Recomp/port
+
+https://github.com/BaZZtian/PhazonPrime-PS5
 https://github.com/ChaosTheory1075/mp3-ps5
 https://github.com/bystritskiy/reUndr-ps5
+https://github.com/ChaosTheory1075/mgr-ps5
+https://github.com/thesmokesession-bit/perfect-eye
+https://github.com/Tenten1824/GWEN-RePLAY-PS5
+https://github.com/ZiZc3/Infinity-Blade-PS5
+https://github.com/0iy/opengoal-ps5
+
+pc tool
+https://kryomod-tools.kryomod.workers.dev
+https://github.com/ansidium/nanoDNS-Desktop
+https://github.com/TheWizWikii/Convertidor-Pro
