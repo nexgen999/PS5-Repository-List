@@ -2033,6 +2033,14 @@
     {
       "url": "https://github.com/TheRealRetro/mupen64plus-ps5",
       "categoryId": "cat-ps5_emulator"
+    },
+    {
+      "url": "https://github.com/jstrdev/ps5directo",
+      "categoryId": "cat-pc_apps"
+    },
+    {
+      "url": "https://github.com/Warhead500metalmonster/ps-stream",
+      "categoryId": "cat-pc_apps"
     }
   ]
 }
