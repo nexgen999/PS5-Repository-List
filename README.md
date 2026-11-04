@@ -20,7 +20,7 @@ Le projet s'articule autour de plusieurs composants clés :
 ```text
 ├── .github/
 │   └── workflows/
-│       └── update-db.yml      # Workflow GitHub Actions (mise à jour automatique toutes les heures)
+│       └── deploy.yml         # Workflow GitHub Actions (mise à jour automatique toutes les heures)
 ├── json/
 │   ├── repos-config.json      # Fichier source contenant la liste des URLs et des catégories
 │   └── repos-database.json    # Base de données finale générée et mise à jour automatiquement
@@ -48,8 +48,8 @@ L'interface web sert de vitrine au projet. Elle charge dynamiquement le fichier 
 * **`repos-database.json`** : Généré automatiquement, il contient les informations enrichies (statistiques, derniers commits, releases) prêtes à être affichées par le site web.
 
 ### 3. Les scripts et workflows
-* **`scripts/update-db.js`** : Script Node.js qui lit le fichier de configuration, interroge l'API GitHub (avec gestion des tokens si nécessaire pour éviter les limites de taux) et met à jour la base de données.
-* **GitHub Actions (`update-db.yml`)** : Un automatisme configuré pour lancer le script de mise à jour **toutes les heures** de manière autonome. Si des données changent, un commit est automatiquement effectué sur le dépôt.
+* **`scripts/update-db.js`** : Script Node.js qui lit le fichier de configuration, interroge l'API GitHub (avec gestion des tokens si nécessaire pour éviter les limites de taux) et met à jour la base de données. Il interroge les dépôts en parallèle (24 requêtes simultanées dans le workflow) et réutilise les README et commits déjà présents dans `repos-database.json` tant que le `pushed_at` d'un dépôt n'a pas changé : ajouter un dépôt à la config ne coûte donc plus un rafraîchissement complet.
+* **GitHub Actions (`deploy.yml`)** : Un automatisme configuré pour lancer le script de mise à jour **toutes les heures** de manière autonome. Si des données changent, un commit est automatiquement effectué sur le dépôt. Le lancement manuel accepte l'option `force` (onglet Actions → *Run workflow*) pour ignorer le cache et tout retélécharger.
 
 ---
 

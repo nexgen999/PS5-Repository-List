@@ -4,29 +4,38 @@ on:
   schedule:
     - cron: '0 * * * *' # S'exécute à chaque heure pile (minute 0)
   workflow_dispatch: # Permet de lancer la mise à jour manuellement depuis l'onglet Actions de GitHub
+    inputs:
+      force:
+        description: 'Forcer le rafraîchissement complet (ignore le cache des README/commits)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
 
+# Un seul run à la fois : pas de deux jobs qui se battent pour le même push.
+concurrency:
+  group: update-repos-database
+  cancel-in-progress: false
+
 jobs:
   update-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: 1. Cloner le dépôt
         uses: actions/checkout@v4
-
-      - name: 2. Configurer Node.js
-        uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          fetch-depth: 1
 
-      - name: 3. Exécuter le script de mise à jour du JSON
+      - name: 2. Exécuter le script de mise à jour du JSON
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          node scripts/update-db.js
+          FORCE_REFRESH: ${{ inputs.force || 'false' }}
+          UPDATE_CONCURRENCY: '24'
+        run: node --version && node scripts/update-db.js
 
-      - name: 4. Sauvegarder et commiter les modifications si le JSON a changé
+      - name: 3. Sauvegarder et commiter les modifications si le JSON a changé
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
