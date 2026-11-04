@@ -65,6 +65,9 @@ const stats = {
   failedGroups: 0
 };
 
+// Dépôts volontairement écartés de la base (URL invalide ou dépôt supprimé).
+const ignored = [];
+
 let syntheticIdCounter = 0;
 const startedTimestamp = Date.now();
 
@@ -260,6 +263,7 @@ async function fetchRepoData(rawUrl, cacheCandidate, nowIso) {
   const match = String(rawUrl || '').match(/github\.com\/([^/]+)\/([^/?#]+)/i);
   if (!match) {
     console.warn(`URL GitHub invalide ignorée : ${rawUrl}`);
+    ignored.push({ url: String(rawUrl), reason: 'URL GitHub invalide' });
     return null;
   }
 
@@ -271,6 +275,7 @@ async function fetchRepoData(rawUrl, cacheCandidate, nowIso) {
   const repoData = await getJSON(repoBase);
   if (!repoData) {
     console.error(`Dépôt introuvable (404), ignoré : ${rawUrl}`);
+    ignored.push({ url: String(rawUrl), reason: 'dépôt introuvable (404)' });
     return null;
   }
 
@@ -423,10 +428,18 @@ async function main() {
   fs.renameSync(tempPath, OUTPUT_PATH);
 
   const seconds = ((Date.now() - startedTimestamp) / 1000).toFixed(1);
+
+  if (ignored.length > 0) {
+    console.log(`Dépôts ignorés (${ignored.length}) :`);
+    for (const entry of ignored.sort((a, b) => a.url.localeCompare(b.url))) {
+      console.log(`  - ${entry.url} — ${entry.reason}`);
+    }
+  }
+
   console.log(
     `Succès ! Base de données générée dans ${OUTPUT_PATH} (${processedRepos.length} dépôts intégrés) `
     + `en ${seconds} s — ${stats.requests} requêtes GitHub, ${stats.cachedReadmes} README en cache, `
-    + `${stats.fetchedReadmes} retéléchargés, ${stats.notFound} introuvables, `
+    + `${stats.fetchedReadmes} retéléchargés, ${stats.notFound} réponses 404, ${ignored.length} dépôts ignorés, `
     + `${stats.throttled} throttles, ${stats.retries} retries.`
   );
 }
