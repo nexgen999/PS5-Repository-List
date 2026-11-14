@@ -839,6 +839,10 @@
       "categoryId": "cat-pc_apps"
     },
     {
+      "url": "https://github.com/marcelorsdd/OpenPSApp",
+      "categoryId": "cat-ps5_utility"
+    },
+    {
       "url": "https://github.com/Marice/OliSePlayer",
       "categoryId": "cat-ps5_audio_utility"
     },
